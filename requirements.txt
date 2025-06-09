@@ -3,3 +3,5 @@ yt-dlp
 openai-whisper
 googletrans
 youtube-transcript-api
+aiobotocore
+
