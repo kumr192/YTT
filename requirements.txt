@@ -1,5 +1,5 @@
 streamlit
 yt-dlp
 openai-whisper
-googletrans==4.0.0-rc1
+googletrans
 youtube-transcript-api
